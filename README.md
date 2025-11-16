@@ -218,8 +218,10 @@ batch_size = 64
 
 ## 📚 참고 문헌
 
-1. He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+1. He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [DOI](
+https://doi.org/10.48550/arXiv.1512.03385)
 
-2. Zagoruyko, Sergey, and Nikos Komodakis. "Wide Residual Networks." Proceedings of the British Machine Vision Conference (BMVC). 2016. [GitHub](https://github.com/szagoruyko/wide-residual-networks)
+2. Zagoruyko, Sergey, and Nikos Komodakis. "Wide Residual Networks." Proceedings of the British Machine Vision Conference (BMVC). 2016. [DOI]()
+https://doi.org/10.48550/arXiv.1605.07146 [GitHub](https://github.com/szagoruyko/wide-residual-networks)
 
 3. CIFAR-10 Dataset: https://www.cs.toronto.edu/~kriz/cifar.html
