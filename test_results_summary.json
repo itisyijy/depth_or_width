@@ -1,0 +1,56 @@
+{
+  "ResNet-110": {
+    "test_loss": 0.26555651690386517,
+    "test_acc": 94.29,
+    "class_acc": {
+      "plane": 95.0,
+      "car": 97.2,
+      "bird": 91.8,
+      "cat": 85.1,
+      "deer": 96.5,
+      "dog": 91.8,
+      "frog": 96.2,
+      "horse": 96.0,
+      "ship": 97.0,
+      "truck": 96.3
+    },
+    "checkpoint_epoch": 172,
+    "checkpoint_val_acc": 94.36
+  },
+  "WRN-28-2": {
+    "test_loss": 0.21507207917261728,
+    "test_acc": 94.62,
+    "class_acc": {
+      "plane": 94.9,
+      "car": 98.4,
+      "bird": 92.2,
+      "cat": 88.2,
+      "deer": 95.6,
+      "dog": 90.1,
+      "frog": 97.1,
+      "horse": 97.0,
+      "ship": 96.5,
+      "truck": 96.2
+    },
+    "checkpoint_epoch": 195,
+    "checkpoint_val_acc": 95.24
+  },
+  "WRN-28-2-Dropout": {
+    "test_loss": 0.198868480475643,
+    "test_acc": 94.75,
+    "class_acc": {
+      "plane": 95.3,
+      "car": 98.0,
+      "bird": 92.7,
+      "cat": 87.7,
+      "deer": 95.9,
+      "dog": 91.9,
+      "frog": 96.4,
+      "horse": 96.3,
+      "ship": 97.1,
+      "truck": 96.2
+    },
+    "checkpoint_epoch": 196,
+    "checkpoint_val_acc": 95.14
+  }
+}
